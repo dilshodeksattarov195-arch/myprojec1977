@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcalidate",
+        "uuid": 11401359,
+        "checksum": "01pp8h"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
